@@ -1,0 +1,14 @@
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.exe
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.deps.json
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.runtimeconfig.json
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.dll
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\bin\Debug\net8.0\ConsoleHelloWorld.pdb
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfoInputs.cache
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.AssemblyInfo.cs
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.dll
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\refint\ConsoleHelloWorld.dll
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.pdb
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ConsoleHelloWorld.genruntimeconfig.cache
+E:\Code\vs_c#\ConsoleHelloWorld\ConsoleHelloWorld\obj\Debug\net8.0\ref\ConsoleHelloWorld.dll

@@ -1,0 +1,14 @@
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\bin\Debug\net8.0\NamespaceClass.exe
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\bin\Debug\net8.0\NamespaceClass.deps.json
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\bin\Debug\net8.0\NamespaceClass.runtimeconfig.json
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\bin\Debug\net8.0\NamespaceClass.dll
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\bin\Debug\net8.0\NamespaceClass.pdb
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\NamespaceClass.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\NamespaceClass.AssemblyInfoInputs.cache
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\NamespaceClass.AssemblyInfo.cs
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\NamespaceClass.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\NamespaceClass.dll
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\refint\NamespaceClass.dll
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\NamespaceClass.pdb
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\NamespaceClass.genruntimeconfig.cache
+E:\Code\vs_c#\NamespaceClass\NamespaceClass\obj\Debug\net8.0\ref\NamespaceClass.dll
