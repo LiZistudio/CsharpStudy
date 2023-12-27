@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NamespaceClass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7deebfa5c4acfa14ee995da9150fe548cd4b4d6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("NamespaceClass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NamespaceClass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

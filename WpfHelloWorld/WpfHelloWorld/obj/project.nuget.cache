@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/UPfnZLW3EVLkxbrlFSjDhDVuX28UaM0/nfCI2W0NrKNt+nkjAG5NfHeNO1qSC5B/R85RQ74aqSBpglzUsxh2Q==",
+  "dgSpecHash": "cdnlmXN46C8JejjyDVRwMfeMN+V2NGs4jB6cgs2Lqa/pcCDv7mCYyzaja4BYkF4kL1pX5Bo7l2dCG09SR7E/8A==",
   "success": true,
-  "projectFilePath": "E:\\Code\\vs_c#\\WpfHelloWorld\\WpfHelloWorld\\WpfHelloWorld.csproj",
+  "projectFilePath": "E:\\Code\\vs_c#\\CsharpStudy\\WpfHelloWorld\\WpfHelloWorld\\WpfHelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

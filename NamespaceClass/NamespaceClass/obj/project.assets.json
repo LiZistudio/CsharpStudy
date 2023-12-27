@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\vs_c#\\NamespaceClass\\NamespaceClass\\NamespaceClass.csproj",
+      "projectUniqueName": "E:\\Code\\vs_c#\\CsharpStudy\\NamespaceClass\\NamespaceClass\\NamespaceClass.csproj",
       "projectName": "NamespaceClass",
-      "projectPath": "E:\\Code\\vs_c#\\NamespaceClass\\NamespaceClass\\NamespaceClass.csproj",
+      "projectPath": "E:\\Code\\vs_c#\\CsharpStudy\\NamespaceClass\\NamespaceClass\\NamespaceClass.csproj",
       "packagesPath": "C:\\Users\\11853\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\vs_c#\\NamespaceClass\\NamespaceClass\\obj\\",
+      "outputPath": "E:\\Code\\vs_c#\\CsharpStudy\\NamespaceClass\\NamespaceClass\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

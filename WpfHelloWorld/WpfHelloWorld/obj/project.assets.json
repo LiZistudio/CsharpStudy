@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Code\\vs_c#\\WpfHelloWorld\\WpfHelloWorld\\WpfHelloWorld.csproj",
+      "projectUniqueName": "E:\\Code\\vs_c#\\CsharpStudy\\WpfHelloWorld\\WpfHelloWorld\\WpfHelloWorld.csproj",
       "projectName": "WpfHelloWorld",
-      "projectPath": "E:\\Code\\vs_c#\\WpfHelloWorld\\WpfHelloWorld\\WpfHelloWorld.csproj",
+      "projectPath": "E:\\Code\\vs_c#\\CsharpStudy\\WpfHelloWorld\\WpfHelloWorld\\WpfHelloWorld.csproj",
       "packagesPath": "C:\\Users\\11853\\.nuget\\packages\\",
-      "outputPath": "E:\\Code\\vs_c#\\WpfHelloWorld\\WpfHelloWorld\\obj\\",
+      "outputPath": "E:\\Code\\vs_c#\\CsharpStudy\\WpfHelloWorld\\WpfHelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
