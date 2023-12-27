@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\vs_c#\\CsharpStudy\\Class04\\Class004\\Class04.csproj": {}
+    "E:\\Code\\vs_c#\\CsharpStudy\\Class004\\Class004\\Class04.csproj": {}
   },
   "projects": {
-    "E:\\Code\\vs_c#\\CsharpStudy\\Class04\\Class004\\Class04.csproj": {
+    "E:\\Code\\vs_c#\\CsharpStudy\\Class004\\Class004\\Class04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\vs_c#\\CsharpStudy\\Class04\\Class004\\Class04.csproj",
+        "projectUniqueName": "E:\\Code\\vs_c#\\CsharpStudy\\Class004\\Class004\\Class04.csproj",
         "projectName": "Class04",
-        "projectPath": "E:\\Code\\vs_c#\\CsharpStudy\\Class04\\Class004\\Class04.csproj",
+        "projectPath": "E:\\Code\\vs_c#\\CsharpStudy\\Class004\\Class004\\Class04.csproj",
         "packagesPath": "C:\\Users\\11853\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\vs_c#\\CsharpStudy\\Class04\\Class004\\obj\\",
+        "outputPath": "E:\\Code\\vs_c#\\CsharpStudy\\Class004\\Class004\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\bin\Debug\net8.0\Class04.exe
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\bin\Debug\net8.0\Class04.deps.json
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\bin\Debug\net8.0\Class04.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\bin\Debug\net8.0\Class04.dll
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\bin\Debug\net8.0\Class04.pdb
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.dll
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\refint\Class04.dll
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.pdb
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\Class04.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\Class004\Class004\obj\Debug\net8.0\ref\Class04.dll
