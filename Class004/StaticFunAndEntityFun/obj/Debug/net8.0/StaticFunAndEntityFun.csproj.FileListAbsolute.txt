@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\bin\Debug\net8.0\StaticFunAndEntityFun.exe
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\bin\Debug\net8.0\StaticFunAndEntityFun.deps.json
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\bin\Debug\net8.0\StaticFunAndEntityFun.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\bin\Debug\net8.0\StaticFunAndEntityFun.dll
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\bin\Debug\net8.0\StaticFunAndEntityFun.pdb
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.dll
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\refint\StaticFunAndEntityFun.dll
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.pdb
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\StaticFunAndEntityFun.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\Class004\StaticFunAndEntityFun\obj\Debug\net8.0\ref\StaticFunAndEntityFun.dll

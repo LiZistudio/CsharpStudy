@@ -1,0 +1,19 @@
+﻿<Window x:Class="DesktopTime.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DesktopTime"
+        mc:Ignorable="d"
+        Title="桌面时钟" Height="268" Width="466" Icon="/Ornaments.ico" MinWidth="466" MinHeight="268" MaxWidth="466" MaxHeight="268">
+    <Window.Background>
+        <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+            <GradientStop Color="#FFE3EE06"/>
+            <GradientStop Color="#FFFF4A00" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+    <Grid>
+        <TextBox x:Name="timeTextBox" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Width="418" Height="203" FontSize="72" MinWidth="418" MinHeight="203" MaxWidth="418" MaxHeight="203" Cursor="No"/>
+
+    </Grid>
+</Window>

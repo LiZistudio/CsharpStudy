@@ -1,0 +1,17 @@
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\bin\Debug\net8.0-windows\ClassAndInstance.exe
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\bin\Debug\net8.0-windows\ClassAndInstance.deps.json
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\bin\Debug\net8.0-windows\ClassAndInstance.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\bin\Debug\net8.0-windows\ClassAndInstance.dll
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\bin\Debug\net8.0-windows\ClassAndInstance.pdb
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.Form1.resources
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.csproj.GenerateResource.cache
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.dll
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\refint\ClassAndInstance.dll
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.pdb
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ClassAndInstance.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\Class004\ClassAndInstance\obj\Debug\net8.0-windows\ref\ClassAndInstance.dll
