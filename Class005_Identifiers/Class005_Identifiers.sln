@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class005_Identifiers", "Class005_Identifiers\Class005_Identifiers.csproj", "{512990D3-72CC-4CBA-848B-273EC709AB7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class005_Identifiers02", "Class005_Identifiers02\Class005_Identifiers02.csproj", "{D8C96717-D953-44F1-91D7-588D2DFFA6EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{512990D3-72CC-4CBA-848B-273EC709AB7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{512990D3-72CC-4CBA-848B-273EC709AB7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{512990D3-72CC-4CBA-848B-273EC709AB7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{512990D3-72CC-4CBA-848B-273EC709AB7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8C96717-D953-44F1-91D7-588D2DFFA6EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8C96717-D953-44F1-91D7-588D2DFFA6EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8C96717-D953-44F1-91D7-588D2DFFA6EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8C96717-D953-44F1-91D7-588D2DFFA6EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8529617-EE89-49A4-807C-EAA2BEEB6091}
+	EndGlobalSection
+EndGlobal

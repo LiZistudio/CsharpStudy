@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\bin\Debug\net8.0\Class005_Identifiers02.exe
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\bin\Debug\net8.0\Class005_Identifiers02.deps.json
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\bin\Debug\net8.0\Class005_Identifiers02.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\bin\Debug\net8.0\Class005_Identifiers02.dll
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\bin\Debug\net8.0\Class005_Identifiers02.pdb
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.dll
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\refint\Class005_Identifiers02.dll
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.pdb
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\Class005_Identifiers02.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers02\obj\Debug\net8.0\ref\Class005_Identifiers02.dll

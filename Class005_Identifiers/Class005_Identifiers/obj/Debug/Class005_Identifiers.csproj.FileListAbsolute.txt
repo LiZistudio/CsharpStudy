@@ -1,0 +1,10 @@
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\bin\Debug\Class005_Identifiers.exe.config
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\bin\Debug\Class005_Identifiers.exe
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\bin\Debug\Class005_Identifiers.pdb
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\obj\Debug\Class005_Identifiers.csproj.AssemblyReference.cache
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\obj\Debug\Class005_Identifiers.Properties.Resources.resources
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\obj\Debug\Class005_Identifiers.csproj.GenerateResource.cache
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\obj\Debug\Class005_Identifiers.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\obj\Debug\Class005_Identifiers.exe
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\obj\Debug\Class005_Identifiers.pdb
+E:\Code\vs_c#\CsharpStudy\Class005_Identifiers\Class005_Identifiers\obj\Debug\Class005_Identifiers.Form1.resources
