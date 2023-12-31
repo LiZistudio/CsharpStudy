@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\bin\Debug\net8.0\Class006StrongTyped.exe
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\bin\Debug\net8.0\Class006StrongTyped.deps.json
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\bin\Debug\net8.0\Class006StrongTyped.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\bin\Debug\net8.0\Class006StrongTyped.dll
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\bin\Debug\net8.0\Class006StrongTyped.pdb
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.dll
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\refint\Class006StrongTyped.dll
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.pdb
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\Class006StrongTyped.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\Class006StrongTyped\Class006StrongTyped\obj\Debug\net8.0\ref\Class006StrongTyped.dll
