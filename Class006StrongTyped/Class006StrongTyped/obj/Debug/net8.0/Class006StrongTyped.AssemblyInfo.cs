@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Class006StrongTyped")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e8c77ef51bc8d2f2e4041dabdefe4b74287c348")]
 [assembly: System.Reflection.AssemblyProductAttribute("Class006StrongTyped")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Class006StrongTyped")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

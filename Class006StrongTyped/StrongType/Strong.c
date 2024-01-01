@@ -3,7 +3,7 @@
 int main() {
 	int x = 100;
 
-	if (200 == x) {
+	if (100 == x) {
 		printf("it's OK");
 	}
 	return 0;
