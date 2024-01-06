@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\bin\Debug\net8.0\TypeInCSharp.exe
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\bin\Debug\net8.0\TypeInCSharp.deps.json
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\bin\Debug\net8.0\TypeInCSharp.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\bin\Debug\net8.0\TypeInCSharp.dll
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\bin\Debug\net8.0\TypeInCSharp.pdb
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.dll
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\refint\TypeInCSharp.dll
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.pdb
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\TypeInCSharp.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\TypeInCSharp\obj\Debug\net8.0\ref\TypeInCSharp.dll

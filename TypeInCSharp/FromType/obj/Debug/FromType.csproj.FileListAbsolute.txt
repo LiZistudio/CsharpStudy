@@ -1,0 +1,9 @@
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\bin\Debug\FromType.exe.config
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\bin\Debug\FromType.exe
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\bin\Debug\FromType.pdb
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\obj\Debug\FromType.csproj.AssemblyReference.cache
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\obj\Debug\FromType.Properties.Resources.resources
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\obj\Debug\FromType.csproj.GenerateResource.cache
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\obj\Debug\FromType.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\obj\Debug\FromType.exe
+E:\Code\vs_c#\CsharpStudy\TypeInCSharp\FromType\obj\Debug\FromType.pdb
