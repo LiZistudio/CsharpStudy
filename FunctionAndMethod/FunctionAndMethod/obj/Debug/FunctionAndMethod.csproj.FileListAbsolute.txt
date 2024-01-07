@@ -1,0 +1,9 @@
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\bin\Debug\FunctionAndMethod.exe.config
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\bin\Debug\FunctionAndMethod.exe
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\bin\Debug\FunctionAndMethod.pdb
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\obj\Debug\FunctionAndMethod.csproj.AssemblyReference.cache
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\obj\Debug\FunctionAndMethod.Properties.Resources.resources
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\obj\Debug\FunctionAndMethod.csproj.GenerateResource.cache
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\obj\Debug\FunctionAndMethod.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\obj\Debug\FunctionAndMethod.exe
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionAndMethod\obj\Debug\FunctionAndMethod.pdb

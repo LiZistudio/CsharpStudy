@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\bin\Debug\net8.0\FunctionMethod.exe
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\bin\Debug\net8.0\FunctionMethod.deps.json
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\bin\Debug\net8.0\FunctionMethod.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\bin\Debug\net8.0\FunctionMethod.dll
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\bin\Debug\net8.0\FunctionMethod.pdb
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.dll
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\refint\FunctionMethod.dll
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.pdb
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\FunctionMethod.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\FunctionAndMethod\FunctionMethod\obj\Debug\net8.0\ref\FunctionMethod.dll
