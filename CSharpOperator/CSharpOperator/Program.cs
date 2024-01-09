@@ -19,6 +19,13 @@ namespace CSharpOperator
             {
                 Console.WriteLine(p.Name);
             }
+
+            /*
+             * 一些操作符
+             */
+            //System.IO.File.Create("D:\\Users\\11853\\Desktop\\CSharpOperator.txt");
+            var student = new { num = 1, Name = "LiMing" };
+            Console.WriteLine(student.Name);
             return 0;
         }
     }
@@ -30,7 +37,14 @@ namespace CSharpOperator
         public Persion() { Name = "null"; }
         public Persion (string initName)
         {
-            Name = initName;
+            if (!string.IsNullOrEmpty(initName))
+            {
+                this.Name = initName;
+            }
+            else
+            {
+                throw new ArgumentException("initName cannot be null or empty");
+            }
         }
 
         //CSharp中的操作符就是函数的简记法

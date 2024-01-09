@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpOperator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+379252c8aa1d22fa0eb706c5fb60ebe2904cf403")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+941e2ba1d5f069dea971266b6db86edad9f9c692")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpOperator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpOperator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
