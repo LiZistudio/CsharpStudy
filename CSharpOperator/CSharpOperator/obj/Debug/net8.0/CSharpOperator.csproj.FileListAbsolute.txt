@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\bin\Debug\net8.0\CSharpOperator.exe
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\bin\Debug\net8.0\CSharpOperator.deps.json
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\bin\Debug\net8.0\CSharpOperator.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\bin\Debug\net8.0\CSharpOperator.dll
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\bin\Debug\net8.0\CSharpOperator.pdb
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.dll
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\refint\CSharpOperator.dll
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.pdb
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\CSharpOperator.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\CSharpOperator\CSharpOperator\obj\Debug\net8.0\ref\CSharpOperator.dll
