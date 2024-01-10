@@ -1,0 +1,33 @@
+﻿<Window x:Class="ConversionExampleWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConversionExampleWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Cursor="No" MinWidth="800" MinHeight="450" MaxWidth="800" MaxHeight="450">
+    <Grid x:Name="MyWindow" Cursor="No" Background="#FFA29EEB" MinWidth="800" MinHeight="435" MaxWidth="800" MaxHeight="435">
+        <TextBox x:Name="MyTextbox" HorizontalAlignment="Left" Margin="223,114,0,0" TextWrapping="Wrap" Text="请在第一个框和第二个框中输入数字，然后点击求和按钮。" VerticalAlignment="Top" Width="517" Height="80" FontSize="24">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.302"/>
+                    <GradientStop Color="Red" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <Button x:Name="MyButton" Content="求和" HorizontalAlignment="Center" Margin="0,312,0,0" VerticalAlignment="Top" Height="63" Width="168" Background="#FF0DE396" FontSize="36" Click="MyButton_Click"/>
+        <TextBox x:Name="MyTextbox2" HorizontalAlignment="Left" Margin="223,35,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="517" Height="79" FontSize="24">
+            <TextBox.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.56"/>
+                    <GradientStop Color="#FFFF3F3F" Offset="0"/>
+                </LinearGradientBrush>
+            </TextBox.Background>
+        </TextBox>
+        <TextBox x:Name="MyTextbox3" HorizontalAlignment="Left" Margin="223,194,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="517" Height="87" FontSize="36"/>
+        <TextBox HorizontalAlignment="Left" Margin="60,35,0,0" TextWrapping="Wrap" Text="加数：" VerticalAlignment="Top" Width="163" Height="79" FontSize="48"/>
+        <TextBox HorizontalAlignment="Left" Margin="60,110,0,0" TextWrapping="Wrap" Text="加数：" VerticalAlignment="Top" Width="163" Height="84" FontSize="48"/>
+        <TextBox HorizontalAlignment="Left" Margin="60,194,0,0" TextWrapping="Wrap" Text="   和：" VerticalAlignment="Top" Width="163" Height="87" FontSize="48"/>
+
+    </Grid>
+</Window>
