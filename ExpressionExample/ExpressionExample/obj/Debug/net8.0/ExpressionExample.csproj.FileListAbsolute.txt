@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\bin\Debug\net8.0\ExpressionExample.exe
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\bin\Debug\net8.0\ExpressionExample.deps.json
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\bin\Debug\net8.0\ExpressionExample.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\bin\Debug\net8.0\ExpressionExample.dll
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\bin\Debug\net8.0\ExpressionExample.pdb
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.dll
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\refint\ExpressionExample.dll
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.pdb
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ExpressionExample.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\ExpressionExample\ExpressionExample\obj\Debug\net8.0\ref\ExpressionExample.dll
