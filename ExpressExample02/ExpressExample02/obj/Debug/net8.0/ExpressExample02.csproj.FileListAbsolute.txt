@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\bin\Debug\net8.0\ExpressExample02.exe
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\bin\Debug\net8.0\ExpressExample02.deps.json
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\bin\Debug\net8.0\ExpressExample02.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\bin\Debug\net8.0\ExpressExample02.dll
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\bin\Debug\net8.0\ExpressExample02.pdb
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.dll
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\refint\ExpressExample02.dll
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.pdb
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ExpressExample02.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\ExpressExample02\ExpressExample02\obj\Debug\net8.0\ref\ExpressExample02.dll
