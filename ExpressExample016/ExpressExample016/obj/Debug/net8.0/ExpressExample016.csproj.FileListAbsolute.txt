@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\bin\Debug\net8.0\ExpressExample016.exe
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\bin\Debug\net8.0\ExpressExample016.deps.json
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\bin\Debug\net8.0\ExpressExample016.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\bin\Debug\net8.0\ExpressExample016.dll
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\bin\Debug\net8.0\ExpressExample016.pdb
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.dll
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\refint\ExpressExample016.dll
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.pdb
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ExpressExample016.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\ExpressExample016\ExpressExample016\obj\Debug\net8.0\ref\ExpressExample016.dll
