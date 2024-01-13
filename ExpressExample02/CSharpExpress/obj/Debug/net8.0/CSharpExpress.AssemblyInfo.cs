@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ExpressExample02")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CSharpExpress")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41a5406cec454842c56a1780ff6e32f177bb23a4")]
-[assembly: System.Reflection.AssemblyProductAttribute("ExpressExample02")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ExpressExample02")]
+[assembly: System.Reflection.AssemblyProductAttribute("CSharpExpress")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CSharpExpress")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

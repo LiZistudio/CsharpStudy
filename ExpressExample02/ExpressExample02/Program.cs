@@ -6,6 +6,9 @@ namespace Express
     {
         static void Main()
         {
+            int[] x = { 1, 2, 3 };
+            int[,] y = new int[2,3] {{ 1, 2, 3},{ 4, 5, 6 }};
+            
             double result = Calculator.GetCylinderVolume(2D,10D);
             Console.WriteLine(result);
 
@@ -33,7 +36,7 @@ namespace Express
     {
         public static double GetCylinderVolume(double r, double h) 
         {
-            double Area = 3.14*r * r;
+            double Area = 3.14*r*r;
             double volume = Area*h;
             return volume;
         }
