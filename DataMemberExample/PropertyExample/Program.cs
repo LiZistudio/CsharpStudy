@@ -109,5 +109,15 @@ namespace Property
     class WASPEC
     {
         public const string WebsiteURL = "http://www.waspec.org";
+        //public const Building Location = new Building("Some Adress");
+        public static readonly Building Location = new Building("Some Adress");
+
+    }
+    class Building
+    {
+        public Building(string str) { 
+            Address = str;
+        }
+        public string Address { get; set; }
     }
 }
