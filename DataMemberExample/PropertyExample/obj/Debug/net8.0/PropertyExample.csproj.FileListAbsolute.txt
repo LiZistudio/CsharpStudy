@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\bin\Debug\net8.0\PropertyExample.exe
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\bin\Debug\net8.0\PropertyExample.deps.json
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\bin\Debug\net8.0\PropertyExample.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\bin\Debug\net8.0\PropertyExample.dll
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\bin\Debug\net8.0\PropertyExample.pdb
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.dll
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\refint\PropertyExample.dll
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.pdb
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\PropertyExample.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\DataMemberExample\PropertyExample\obj\Debug\net8.0\ref\PropertyExample.dll
