@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\bin\Debug\net8.0\ArrayParametric.exe
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\bin\Debug\net8.0\ArrayParametric.deps.json
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\bin\Debug\net8.0\ArrayParametric.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\bin\Debug\net8.0\ArrayParametric.dll
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\bin\Debug\net8.0\ArrayParametric.pdb
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.dll
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\refint\ArrayParametric.dll
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.pdb
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ArrayParametric.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\ParametricExample\ArrayParametric\obj\Debug\net8.0\ref\ArrayParametric.dll

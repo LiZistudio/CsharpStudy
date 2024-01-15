@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\bin\Debug\net8.0\OutParametric.exe
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\bin\Debug\net8.0\OutParametric.deps.json
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\bin\Debug\net8.0\OutParametric.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\bin\Debug\net8.0\OutParametric.dll
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\bin\Debug\net8.0\OutParametric.pdb
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.dll
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\refint\OutParametric.dll
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.pdb
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\OutParametric.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\ParametricExample\OutParametric\obj\Debug\net8.0\ref\OutParametric.dll
