@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj": {}
+    "e:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj": {}
   },
   "projects": {
-    "E:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj": {
+    "e:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj",
+        "projectUniqueName": "e:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj",
         "projectName": "DelegateExample02",
-        "projectPath": "E:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj",
+        "projectPath": "e:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\DelegateExample02.csproj",
         "packagesPath": "C:\\Users\\11853\\.nuget\\packages\\",
-        "outputPath": "E:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\obj\\",
+        "outputPath": "e:\\Code\\vs_c#\\CsharpStudy\\DelegateExample\\DelegateExample02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

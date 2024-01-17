@@ -1,7 +1,6 @@
 ﻿//声明委托
 //注意，委托也是一种类，需要声明在名称空间里
 
-
 using System;
 using System.Net.Http.Headers;
 
@@ -9,7 +8,7 @@ namespace DelegateExample02
 {
     public delegate double Calc(double x,double y);     //自定义委托类型的声明
     class Program
-    {
+    {  
         static void Main(string[] args)
         {
             Calculator calculator = new Calculator();
