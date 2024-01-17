@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateExample", "Delegate
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FunctionPointer", "FunctionPointer\FunctionPointer.vcxproj", "{2E5C6A88-42D1-4177-A1C6-B4F87248CD2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateExample02", "DelegateExample02\DelegateExample02.csproj", "{4DFF1473-2BB0-419C-BB05-9F408203B185}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegateExample02", "DelegateExample02\DelegateExample02.csproj", "{4DFF1473-2BB0-419C-BB05-9F408203B185}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

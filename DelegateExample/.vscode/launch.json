@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: DelegateExample02",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\DelegateExample02\\DelegateExample02.csproj",
+            "launchConfigurationId": "TargetFramework=;DelegateExample02"
+        },
+        {
+            "name": "C#: DelegateExample",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\DelegateExample\\DelegateExample.csproj",
+            "launchConfigurationId": "TargetFramework=;DelegateExample"
+        },
+    ]
+}
