@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.exe
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.deps.json
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.dll
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\bin\Debug\net8.0\DelegateExample.pdb
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.dll
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\refint\DelegateExample.dll
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.pdb
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\DelegateExample.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateExample\obj\Debug\net8.0\ref\DelegateExample.dll
