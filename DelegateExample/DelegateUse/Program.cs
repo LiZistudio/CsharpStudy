@@ -59,6 +59,9 @@ namespace DelegateUse{
     class Box{
         public Product Product {get;set;}
     }
+
+    //public delegate TResult myFunc <out TResult> ();
+    //public delegate void myAction <in T1> (T1 arg1);
     class WrapFactory{
         public Box WrapProduct (Func<Product> getProduct,Action<Product> logCallback) {     //模板方法
             Box box = new Box();

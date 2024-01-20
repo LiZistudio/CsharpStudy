@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\bin\Debug\net8.0\DelegateUseHigh.exe
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\bin\Debug\net8.0\DelegateUseHigh.deps.json
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\bin\Debug\net8.0\DelegateUseHigh.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\bin\Debug\net8.0\DelegateUseHigh.dll
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\bin\Debug\net8.0\DelegateUseHigh.pdb
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.dll
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\refint\DelegateUseHigh.dll
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.pdb
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\DelegateUseHigh.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\DelegateExample\DelegateUseHigh\obj\Debug\net8.0\ref\DelegateUseHigh.dll
