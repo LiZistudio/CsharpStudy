@@ -31,17 +31,49 @@ namespace DelegateUseHigh{
             Student stu2 = new Student(){ID = 2, PenColor = ConsoleColor.Yellow};
             Student stu3 = new Student(){ID = 3, PenColor = ConsoleColor.Blue};
             
-            Action act1 = new Action(stu1.DoHomework);
-            Action act2 = new Action(stu2.DoHomework);
-            Action act3 = new Action(stu3.DoHomework);
+            // stu1.DoHomework();
+            // stu2.DoHomework();
+            // stu3.DoHomework();      //直接同步调用
 
-            // act1();
-            // act2();
-            // act3();      //单播委托
+            // for (int i = 0; i < 10; i++)
+            // {
+            //     Console.ForegroundColor = ConsoleColor.Cyan;
+            //     System.Console.WriteLine("Main thread {0}.",i);
+            //     Thread.Sleep(100);
+            // }                       //直接同步调用
 
-            act1 += act2;
-            act1 += act3;
-            act1.Invoke();         //多播委托
+
+            // Action act1 = new Action(stu1.DoHomework);
+            // Action act2 = new Action(stu2.DoHomework);
+            // Action act3 = new Action(stu3.DoHomework);      //间接同步调用
+
+            // // act1.BeginInvoke(null,null);
+            // // act2.BeginInvoke(null,null);
+            // // act3.BeginInvoke(null,null);        //隐式异步调用的BeginInvoke（）方法已不被支持
+
+            // // act1();
+            // // act2();
+            // // act3();              //单播委托
+
+            // act1 += act2;
+            // act1 += act3;
+            // act1.Invoke();         //多播委托   //间接同步调用
+
+            /*显式异步调用*/
+            // Thread thread1 = new Thread(new ThreadStart(stu1.DoHomework));
+            // Thread thread2 = new Thread(new ThreadStart(stu1.DoHomework));
+            // Thread thread3 = new Thread(new ThreadStart(stu1.DoHomework));
+
+            // thread1.Start();
+            // thread2.Start();
+            // thread3.Start();
+
+            Task task1 = new Task(new Action(stu1.DoHomework));
+            Task task2 = new Task(new Action(stu2.DoHomework));
+            Task task3 = new Task(new Action(stu3.DoHomework));
+            task1.Start();
+            task2.Start();
+            task3.Start();
         }
     }
 
