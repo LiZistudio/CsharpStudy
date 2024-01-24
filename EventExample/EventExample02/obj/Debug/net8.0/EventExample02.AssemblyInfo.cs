@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("EventExample")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("EventExample02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6bc2443a10e070062126c1c84397488a1f56c5c")]
-[assembly: System.Reflection.AssemblyProductAttribute("EventExample")]
-[assembly: System.Reflection.AssemblyTitleAttribute("EventExample")]
+[assembly: System.Reflection.AssemblyProductAttribute("EventExample02")]
+[assembly: System.Reflection.AssemblyTitleAttribute("EventExample02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

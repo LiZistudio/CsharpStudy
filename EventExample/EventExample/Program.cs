@@ -31,8 +31,27 @@ namespace EventExample{
     class Program{
         static void Main(String[] args) {
             
-            Timer timer = new Timer();
+            System.Timers.Timer timer = new System.Timers.Timer();
+            timer.Interval = 1000;
+            Boy boy = new Boy();
+            Girl girl = new Girl();
 
+            timer.Elapsed += boy.Action;
+            timer.Elapsed += girl.Action;
+            timer.Start();
+            Console.ReadLine();
         }
+    }
+
+    class Boy{
+        internal void Action (object sender, ElapsedEventArgs e){
+            System.Console.WriteLine("JUMP");
+        }
+    }
+
+    class Girl{
+            internal void Action (object sender,ElapsedEventArgs e){
+                System.Console.WriteLine("Sing");
+            }
     }
 }
