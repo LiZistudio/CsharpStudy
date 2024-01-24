@@ -17,7 +17,7 @@
     3、事件的响应者（event subscriber,对象）
     4、事件的处理器（event handler，成员）———本质上是一个回调方法
     5、事件订阅——把事件处理器与事件关联在一起，本质上是一种以委托类型为基础的“约定”
-*注意
+*注意:
     *事件处理器是方法成员
     *接挂事件处理器的时候，可以使用委托实例，也可以直接使用方法名，这是个“语法糖”
     *事件处理器对事件的订阅不是随意的，匹配与否由声明事件时所使用的委托类型来检测
@@ -25,11 +25,14 @@
 */
 
 using System;
+using System.Timers;
 
 namespace EventExample{
     class Program{
-        static void Main(){
+        static void Main(String[] args) {
             
+            Timer timer = new Timer();
+
         }
     }
 }
