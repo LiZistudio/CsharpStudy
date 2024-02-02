@@ -1,0 +1,10 @@
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\bin\Debug\FormApp.exe.config
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\bin\Debug\FormApp.exe
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\bin\Debug\FormApp.pdb
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\obj\Debug\FormApp.csproj.AssemblyReference.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\obj\Debug\FormApp.Form1.resources
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\obj\Debug\FormApp.Properties.Resources.resources
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\obj\Debug\FormApp.csproj.GenerateResource.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\obj\Debug\FormApp.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\obj\Debug\FormApp.exe
+E:\Code\vs_c#\CsharpStudy\EventExample\FormApp\FormApp\obj\Debug\FormApp.pdb

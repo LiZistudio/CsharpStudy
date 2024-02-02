@@ -1,7 +1,7 @@
 /*
- * 事件
+ * 事件的拥有者和事件的订阅者是不同的对象
  */
-
+using System.Windows.Forms;
 
 namespace EventExample02
 {
@@ -20,7 +20,7 @@ namespace EventExample02
         }                                 
     }
 
-    class Controller
+    class Controller                
     {
         private Form form;
         public Controller(Form form)
@@ -30,7 +30,7 @@ namespace EventExample02
                 this.form = form;
                 this.form.Click += this.FormClicked;
             }
-
+            
         }
         private void FormClicked(object? sender, EventArgs e)
         {

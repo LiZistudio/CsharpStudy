@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\bin\Debug\net8.0-windows\EventExample0203.exe
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\bin\Debug\net8.0-windows\EventExample0203.deps.json
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\bin\Debug\net8.0-windows\EventExample0203.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\bin\Debug\net8.0-windows\EventExample0203.dll
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\bin\Debug\net8.0-windows\EventExample0203.pdb
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.dll
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\refint\EventExample0203.dll
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.pdb
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\EventExample0203.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\EventExample02\EventExample0203\obj\Debug\net8.0-windows\ref\EventExample0203.dll
