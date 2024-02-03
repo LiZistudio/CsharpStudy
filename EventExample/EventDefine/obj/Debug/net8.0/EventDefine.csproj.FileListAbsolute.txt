@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\bin\Debug\net8.0\EventDefine.exe
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\bin\Debug\net8.0\EventDefine.deps.json
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\bin\Debug\net8.0\EventDefine.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\bin\Debug\net8.0\EventDefine.dll
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\bin\Debug\net8.0\EventDefine.pdb
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.dll
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\refint\EventDefine.dll
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.pdb
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\EventDefine.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\EventExample\EventDefine\obj\Debug\net8.0\ref\EventDefine.dll
