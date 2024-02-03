@@ -57,10 +57,10 @@ namespace EventDefine
             }
             this.OnOrder("GongBaoJiDing", "large");
         }
-        protected void OnOrder(string dishName,string size){        //OnOrder(On+事件名)专门为触发事件的方法
+        protected void OnOrder(string dishname,string size){        //OnOrder(On+事件名)专门为触发事件的方法
             if(this.orderEventHandler != null){
                 OrderEventArgs e = new OrderEventArgs();
-                e.DishName = dishName;
+                e.DishName = dishname;
                 e.Size = size;
                 this.orderEventHandler.Invoke(this,e);
             }
