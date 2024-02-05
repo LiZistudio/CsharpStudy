@@ -1,0 +1,12 @@
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\bin\Debug\net8.0\MyLib.deps.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\bin\Debug\net8.0\MyLib.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\bin\Debug\net8.0\MyLib.pdb
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\MyLib.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\MyLib.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\MyLib.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\MyLib.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\refint\MyLib.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\MyLib.pdb
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample024\MyLib\obj\Debug\net8.0\ref\MyLib.dll
