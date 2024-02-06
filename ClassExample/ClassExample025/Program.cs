@@ -14,22 +14,32 @@
             // Object o2 = new Car();          //“是一个”（is a ）
 //------------------------------------------------------------------------------
             // RaceCar raceCar = new RaceCar();
-            // raceCar.Owner = "vehicle";      //子类对父类的成员全盘继承，一直向下传递
+            // raceCar.Owner = "vehicle";      //子类对父类的成员"全盘继承"，一直向下传递(实例构造器不被继承)
             // Type t = raceCar.GetType();
             // System.Console.WriteLine(t.FullName);
 //------------------------------------------------------------------------------
-
-
+            Car car = new Car();
+            System.Console.WriteLine(car.Owner);
+            car.ShowOwner();
         }
     }
 
     //sealed关键字->"封闭类"
     /*sealed*/ class Vehicle : Object{
+        public Vehicle(string owner) {
+            this.Owner = owner;
+        }
         public string Owner { get; set; }
     }
 
     class Car : Vehicle {
+        public Car():base("N/A") {          //子类不会继承父类的实例构造器
+            this.Owner = "Car Owner";
+        }
 
+        public void ShowOwner() {
+            System.Console.WriteLine(base.Owner);       //Car Owner
+        }
     }
 
     // class RaceCar : Car {
