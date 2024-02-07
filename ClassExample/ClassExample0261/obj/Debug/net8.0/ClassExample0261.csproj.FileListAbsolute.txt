@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\bin\Debug\net8.0\ClassExample0261.exe
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\bin\Debug\net8.0\ClassExample0261.deps.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\bin\Debug\net8.0\ClassExample0261.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\bin\Debug\net8.0\ClassExample0261.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\bin\Debug\net8.0\ClassExample0261.pdb
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\refint\ClassExample0261.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.pdb
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ClassExample0261.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0261\obj\Debug\net8.0\ref\ClassExample0261.dll

@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\bin\Debug\net8.0\HelloRider.exe
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\bin\Debug\net8.0\HelloRider.deps.json
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\bin\Debug\net8.0\HelloRider.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\bin\Debug\net8.0\HelloRider.dll
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\bin\Debug\net8.0\HelloRider.pdb
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.dll
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\refint\HelloRider.dll
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.pdb
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\HelloRider.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\HelloRider\HelloRider\obj\Debug\net8.0\ref\HelloRider.dll
