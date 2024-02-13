@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\bin\Debug\net8.0\InterfaceUnittest.exe
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\bin\Debug\net8.0\InterfaceUnittest.deps.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\bin\Debug\net8.0\InterfaceUnittest.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\bin\Debug\net8.0\InterfaceUnittest.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\bin\Debug\net8.0\InterfaceUnittest.pdb
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\refint\InterfaceUnittest.dll
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.pdb
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\InterfaceUnittest.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\ClassExample\ClassExample0284\InterfaceUnittest\InterfaceUnittest\obj\Debug\net8.0\ref\InterfaceUnittest.dll
