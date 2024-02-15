@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\bin\Debug\net8.0\InterfaceExample2903.exe
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\bin\Debug\net8.0\InterfaceExample2903.deps.json
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\bin\Debug\net8.0\InterfaceExample2903.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\bin\Debug\net8.0\InterfaceExample2903.dll
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\bin\Debug\net8.0\InterfaceExample2903.pdb
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.dll
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\refint\InterfaceExample2903.dll
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.pdb
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\InterfaceExample2903.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\InterfaceExample\InterfaceExample2903\obj\Debug\net8.0\ref\InterfaceExample2903.dll
