@@ -15,9 +15,10 @@ namespace InterfaceExample2902 {
             foreach (var i in array3) {
                 System.Console.WriteLine(i);
             }
+            
             System.Console.WriteLine(Sum(array3));
         }
-
+ 
         static int Sum(IEnumerable nums) {
             int sum = 0;
             foreach (int i in nums) {
