@@ -1,12 +1,23 @@
 ﻿/*接口隔离、反射、特性、依赖注入*/
 
 using System;
+using System.Reflection;
+using System.Runtime.InteropServices;
 
 namespace InterfaceExample2901 {
     class Program {
         static void Main(string[] args) {
-            var driver = new Driver(new HeavyTank());
-            driver.Drive();
+            // var driver = new Driver(new HeavyTank());
+            // driver.Drive();
+
+            ITank tank = new HeavyTank();
+            //================================
+            var t = tank.GetType();
+            object o = Activator.CreateInstance(t);
+            MethodInfo fireMi = t.GetMethod("Fire");
+            MethodInfo runMi = t.GetMethod("Run");
+            fireMi.Invoke(o,null);
+            runMi.Invoke(o,null);
         }
     }
 
