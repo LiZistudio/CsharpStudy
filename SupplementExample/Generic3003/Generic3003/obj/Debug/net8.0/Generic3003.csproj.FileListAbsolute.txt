@@ -1,0 +1,15 @@
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\bin\Debug\net8.0\Generic3003.exe
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\bin\Debug\net8.0\Generic3003.deps.json
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\bin\Debug\net8.0\Generic3003.runtimeconfig.json
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\bin\Debug\net8.0\Generic3003.dll
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\bin\Debug\net8.0\Generic3003.pdb
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.AssemblyInfoInputs.cache
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.AssemblyInfo.cs
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.csproj.CoreCompileInputs.cache
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.sourcelink.json
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.dll
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\refint\Generic3003.dll
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.pdb
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\Generic3003.genruntimeconfig.cache
+E:\Code\vs_c#\CsharpStudy\SupplementExample\Generic3003\Generic3003\obj\Debug\net8.0\ref\Generic3003.dll
