@@ -11,13 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PartialClassExample3001")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("WPFApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1994fda9d7014afebe2a9831b42c2b3f97a5e20f")]
-[assembly: System.Reflection.AssemblyProductAttribute("PartialClassExample3001")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PartialClassExample3001")]
+[assembly: System.Reflection.AssemblyProductAttribute("WPFApp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("WPFApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
+[assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。
 
